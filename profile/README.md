@@ -1,6 +1,7 @@
 # About Us
 
-![](.github/profile/logo.png)
+
+![](logo.png)
 
 We're the Open Source Community, a student community established to promote, support, and develop on Open Source Technologies.
 Here at VIT-AP, we're the ones that talk about FOSS, and we're the ones that make it happen.
