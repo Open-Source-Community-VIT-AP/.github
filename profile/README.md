@@ -1,7 +1,7 @@
 # About Us
 
 <p>
-    <img src="profile/logo.png" />
+    <img src="https://drive.google.com/file/d/1bna3M73_hJJS79A5zPWCfzwQPknFa9_k/view?usp=sharing" />
 </p>
 
 We're the **Open Source Community**, a student community established to promote, support, and develop on Open Source Technologies.
